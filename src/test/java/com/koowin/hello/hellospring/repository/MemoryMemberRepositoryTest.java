@@ -3,7 +3,6 @@ package com.koowin.hello.hellospring.repository;
 import com.koowin.hello.hellospring.domain.Member;
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.Test;
-import repository.MemoryMemberRepository;
 
 import java.util.List;
 

@@ -1,6 +1,7 @@
-package repository;
+package com.koowin.hello.hellospring.repository;
 
 import com.koowin.hello.hellospring.domain.Member;
+import org.springframework.stereotype.Repository;
 
 import java.util.List;
 import java.util.Optional;
